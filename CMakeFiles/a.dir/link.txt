@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/a.dir/3D/3d.cpp.o CMakeFiles/a.dir/3D/engine.cpp.o CMakeFiles/a.dir/3D/point.cpp.o CMakeFiles/a.dir/main.cpp.o -o a  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.6.1 
